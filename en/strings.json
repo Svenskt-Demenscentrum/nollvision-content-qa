@@ -1,0 +1,51 @@
+{
+  "----- Allmänt -----": "",
+  "select_profession": "Choose mode",
+  "back": "Back",
+  "text_not_found": "Unable to find text",
+
+  "change_language": "Change language",
+  "select_language": "Select language",
+  "language_en": "English",
+  "language_sv": "Swedish",
+  "language_system": "Automatic (device language)",
+
+  "mode_relative": "Relative",
+  "mode_staff": "Staff",
+
+  "error_no_internet": "Error getting content (unable to reach server)",
+  "error_get_content": "Unable to get content",
+  "error_update_content": "Unable to get updated content",
+
+  "cleared_cache": "Cleared local cache.",
+
+
+  "----- Tab titlar -----": "",
+  "tab_home_title": "Home",
+  "tab_situation_title": "Situations",
+  "tab_behavior_title": "Behavior",
+  "tab_law_title": "Law",
+  "tab_more_title": "More",
+  
+
+  "----- Sektioner (rubriker/titlar) -----": "",
+  "relative_home_title": "Home - Relative",
+  "staff_home_title": "Home - Staff",
+  "situation_title": "Situations",
+  "behavior_title": "Behavior",
+  "law_title": "Law",
+  "more_title": "More",
+
+
+  "----- Sektion: Mer/Om -----": "",
+  "more_about_heading": "About",
+  "more_about_sdc": "About Swedish Dementia Centre",
+  "more_about_app": "About the application",
+  "more_contact_us_heading": "Contact",
+  "more_contact_us": "Contact us",
+  "more_contact_us_link": "https://www.demenscentrum.se/kontakt",
+  "more_switch_profession_heading": "Another target group?",
+  "more_switch_profession": "Switch target group",
+  "about_version": "Version",
+  "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit https://www.demenscentrum.se/"
+}

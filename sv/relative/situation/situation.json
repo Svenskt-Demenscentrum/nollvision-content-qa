@@ -4,7 +4,9 @@
   { "key": "tappatalamod", "title": "Jag tappade tålamodet", "image": "/all/situation/1-thumb.jpg" },
   { "key": "flytta", "title": "Han vill inte flytta", "image": "/all/situation/1-thumb.jpg" },
   { "key": "dorren", "title": "Kan jag låsa dörren?", "image": "/all/situation/1-thumb.jpg" },
-  { "key": "karleksrelation", "title": "Ny kärleksrelation", "image": "/all/situation/1-thumb.jpg" }
+  { "key": "karleksrelation", "title": "Ny kärleksrelation", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "personalen", "title": "Personalen förstår inte", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "balte", "title": "Hon behöver ett bälte", "image": "/all/situation/1-thumb.jpg" }
 ]
 
  

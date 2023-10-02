@@ -1,7 +1,7 @@
 [
-  { "key": "page1", "title": "Lorem ipsum", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "intryck", "title": "Begränsa intryck", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "bekrafta", "title": "Bekräfta känslan", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "fraga", "title": "Fråga på rätt sätt", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "friska", "title": "Stärk det friska", "image": "/all/behavior/1-thumb.jpg" }
   
 ]

@@ -2,6 +2,6 @@
   { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "levnadsberattelse", "title": "Levnadsberättelse", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "miljon", "title": "Miljön", "image": "/all/behavior/1-thumb.jpg" },
-  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
-  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" }
+  { "key": "hjalpmedel", "title": "Hjälpmedel", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "lakemedel", "title": "Läkemedel", "image": "/all/behavior/1-thumb.jpg" }
 ]

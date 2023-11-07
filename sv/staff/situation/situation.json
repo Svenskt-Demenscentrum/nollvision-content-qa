@@ -1,3 +1,4 @@
 [
-  { "key": "coping", "title": "Att orka", "image": "/all/situation/1-thumb.jpg" }
+  { "key": "vandrar", "title": "Vandrar och plockar", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Sömnstörningar", "image": "/all/situation/1-thumb.jpg" }
 ]

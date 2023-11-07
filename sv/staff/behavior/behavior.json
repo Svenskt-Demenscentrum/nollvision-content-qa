@@ -1,3 +1,7 @@
 [
-  { "key": "page1", "title": "Lorem ipsum", "image": "/all/behavior/1-thumb.jpg" }
+  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "kartlaggning", "title": "Kartläggning", "image": "/all/behavior/1-thumb.jpg" }
 ]

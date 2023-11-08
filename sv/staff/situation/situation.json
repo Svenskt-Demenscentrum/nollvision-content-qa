@@ -1,4 +1,11 @@
 [
   { "key": "vandrar", "title": "Vandrar och plockar", "image": "/all/situation/1-thumb.jpg" },
-  { "key": "somn", "title": "Sömnstörningar", "image": "/all/situation/1-thumb.jpg" }
+  { "key": "somn", "title": "Sömnstörningar", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Upprörd och arg", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Apatisk eller likgiltig", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Äter dåligt", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Ropar och skriker", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Vill inte duscha", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Hallucinationer", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "somn", "title": "Vanföreställningar", "image": "/all/situation/1-thumb.jpg" }
 ]

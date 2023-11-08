@@ -1,11 +1,11 @@
 [
   { "key": "vadtvang", "title": "Vad räknas som tvång?", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Samtycke", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Risker med tvång", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Nollvision", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Nödrätt", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Fullmakter", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "God man och förvaltare", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Lex Sarah", "image": "/all/law/1-thumb.jpg" },
-  { "key": "page1", "title": "Lex Maria", "image": "/all/law/1-thumb.jpg" }
+  { "key": "samtycke", "title": "Samtycke", "image": "/all/law/1-thumb.jpg" },
+  { "key": "risker", "title": "Risker med tvång", "image": "/all/law/1-thumb.jpg" },
+  { "key": "nollvision", "title": "Nollvision", "image": "/all/law/1-thumb.jpg" },
+  { "key": "nodratt", "title": "Nödrätt", "image": "/all/law/1-thumb.jpg" },
+  { "key": "fullmakter", "title": "Fullmakter", "image": "/all/law/1-thumb.jpg" },
+  { "key": "godman", "title": "God man och förvaltare", "image": "/all/law/1-thumb.jpg" },
+  { "key": "sarah", "title": "Lex Sarah", "image": "/all/law/1-thumb.jpg" },
+  { "key": "maria", "title": "Lex Maria", "image": "/all/law/1-thumb.jpg" }
 ]

@@ -2,10 +2,10 @@
   { "key": "attorka", "title": "Att orka", "image": "/all/situation/1-thumb_orka.jpg" },
   { "key": "vagrardusha", "title": "Han vägrar dusha", "image": "/all/situation/1-thumb_dusha.jpg" },
   { "key": "tappatalamod", "title": "Jag tappade tålamodet", "image": "/all/situation/1-thumb_tappatalamod.jpg" },
-  { "key": "flytta", "title": "Han vill inte flytta", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "flytta", "title": "Han vill inte flytta", "image": "/all/situation/1-thumb_flytta.jpg" },
   { "key": "dorren", "title": "Kan jag låsa dörren?", "image": "/all/situation/1-thumb_dorren.jpg" },
   { "key": "karleksrelation", "title": "Ny kärleksrelation", "image": "/all/situation/1-thumb_karleksrelation.jpg" },
-  { "key": "personalen", "title": "Personalen förstår inte", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "personalen", "title": "Personalen förstår inte", "image": "/all/situation/1-thumb_personalen.jpg" },
   { "key": "balte", "title": "Hon behöver ett bälte", "image": "/all/situation/1-thumb_balte.jpg" }
 ]
 

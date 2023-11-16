@@ -1,8 +1,8 @@
 [
-  { "key": "tvang", "title": "Vad räknas som tvång", "image": "/all/law/marker-solid.jpg" },
-  { "key": "konsekvenser", "title": "Konsekvenser", "image": "/all/law/1-thumb.jpg" },
-  { "key": "nodratt", "title": "Nödrätt", "image": "/all/law/1-thumb.jpg" },
-  { "key": "samtycke", "title": "Samtycke", "image": "/all/law/1-thumb.jpg" },
-  { "key": "fullmakt", "title": "Fullmakt", "image": "/all/law/1-thumb.jpg" }
+  { "key": "tvang", "title": "Vad räknas som tvång", "image": "/all/law/house-lock-solid.jpg" },
+  { "key": "konsekvenser", "title": "Konsekvenser", "image": "/all/law/explosion-solid.jpg" },
+  { "key": "nodratt", "title": "Nödrätt", "image": "/all/law/person-falling-burst-solid.jpg" },
+  { "key": "samtycke", "title": "Samtycke", "image": "/all/law/hand-holding-heart-solid.jpg" },
+  { "key": "fullmakt", "title": "Fullmakt", "image": "/all/law/marker-solid.jpg" }
   
 ]

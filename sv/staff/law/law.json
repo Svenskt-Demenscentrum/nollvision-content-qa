@@ -1,10 +1,10 @@
 [
-  { "key": "vadtvang", "title": "Vad räknas som tvång?", "image": "/all/law/1-thumb.jpg" },
-  { "key": "samtycke", "title": "Samtycke", "image": "/all/law/1-thumb.jpg" },
-  { "key": "risker", "title": "Risker med tvång", "image": "/all/law/1-thumb.jpg" },
+  { "key": "vadtvang", "title": "Vad räknas som tvång?", "image": "/all/law/house-lock-solid.jpg" },
+  { "key": "samtycke", "title": "Samtycke", "image": "/all/law/hand-holding-heart-solid.jpg" },
+  { "key": "risker", "title": "Risker med tvång", "image": "/all/law/door-open-solid.jpg" },
   { "key": "nollvision", "title": "Nollvision", "image": "/all/law/1-thumb.jpg" },
-  { "key": "nodratt", "title": "Nödrätt", "image": "/all/law/1-thumb.jpg" },
-  { "key": "fullmakter", "title": "Fullmakter", "image": "/all/law/1-thumb.jpg" },
+  { "key": "nodratt", "title": "Nödrätt", "image": "/all/law/person-falling-burst-solid.jpg" },
+  { "key": "fullmakter", "title": "Fullmakter", "image": "/all/law/marker-solid.jpg" },
   { "key": "godman", "title": "God man och förvaltare", "image": "/all/law/1-thumb.jpg" },
   { "key": "sarah", "title": "Lex Sarah", "image": "/all/law/1-thumb.jpg" },
   { "key": "maria", "title": "Lex Maria", "image": "/all/law/1-thumb.jpg" }

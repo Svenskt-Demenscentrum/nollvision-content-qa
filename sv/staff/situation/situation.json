@@ -3,7 +3,7 @@
   { "key": "somn", "title": "Sömnstörningar", "image": "/all/situation/P-bild-somnproblem.jpg" },
   { "key": "upprord", "title": "Upprörd och arg", "image": "/all/situation/P-bild-arg.jpg" },
   { "key": "apatisk", "title": "Apatisk eller likgiltig", "image": "/all/situation/P-bild-apatisk.jpg" },
-  { "key": "aterdaligt", "title": "Äter dåligt", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "aterdaligt", "title": "Äter dåligt", "image": "/all/situation/1-thumb_mat.jpg" },
   { "key": "ropar", "title": "Ropar och skriker", "image": "/all/situation/P-bild-skriker.jpg" },
   { "key": "duscha", "title": "Vill inte duscha", "image": "/all/situation/1-thumb_dusha.jpg" },
   { "key": "hallucinationer", "title": "Hallucinationer", "image": "/all/situation/P-bild-hallucinationer.jpg" },

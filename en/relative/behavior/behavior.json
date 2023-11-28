@@ -1,3 +1,7 @@
 [
-  { "key": "page1", "title": "Lorem ipsum", "image": "/all/behavior/1-thumb.jpg" }
+  { "key": "impressions", "title": "Minimize impressions", "image": "/all/behavior/P-bild-intryck.jpg" },
+  { "key": "acknowledge", "title": "Acknowledge feelings", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "askintherightway", "title": "Ask in the right way", "image": "/all/behavior/P-bild-fragaratt.jpg" },
+  { "key": "strengthen", "title": "Strengthen what is healthy", "image": "/all/behavior/P-bild-friska.jpg" },
+  { "key": "commonbehaviour", "title": "Common behaviour", "image": "/all/behavior/P-bild-beteende.jpg" }
 ]

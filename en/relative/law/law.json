@@ -1,3 +1,7 @@
 [
-  { "key": "page1", "title": "Lorem ipsum", "image": "/all/law/1-thumb.jpg" }
+  { "key": "asforce", "title": "What is deemed as force", "image": "/all/law/house-lock-solid.jpg" },
+  { "key": "consequences", "title": "Consequences", "image": "/all/law/explosion-solid.jpg" },
+  { "key": "necessitylaw ", "title": "Necessity law ", "image": "/all/law/person-falling-burst-solid.jpg" },
+  { "key": "consent", "title": "Consent", "image": "/all/law/hand-holding-heart-solid.jpg" },
+  { "key": "attorney", "title": "Power of attorney", "image": "/all/law/marker-solid.jpg" }
 ]

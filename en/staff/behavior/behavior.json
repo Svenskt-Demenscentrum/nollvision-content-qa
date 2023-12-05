@@ -1,3 +1,7 @@
 [
-  { "key": "page1", "title": "Lorem ipsum", "image": "/all/behavior/compass-drafting-solid.jpg" }
+  { "key": "mapping", "title": "Mapping", "image": "/all/behavior/compass-drafting-solid.jpg" },
+  { "key": "mapping", "title": "Life history", "image": "/all/behavior/compass-drafting-solid.jpg" },
+  { "key": "mapping", "title": "Environment", "image": "/all/behavior/compass-drafting-solid.jpg" },
+  { "key": "mapping", "title": "Aids", "image": "/all/behavior/compass-drafting-solid.jpg" },
+  { "key": "mapping", "title": "Medication", "image": "/all/behavior/pills-solid.jpg" }
 ]

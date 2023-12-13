@@ -1,5 +1,8 @@
 {
   "----- Allmänt -----": "",
+  "app_title": "Vision Zero",
+  "app_sub_title": "For Dementia Care without Restraint",
+
   "select_profession": "Choose mode",
   "back": "Back",
   "text_not_found": "Unable to find text",
@@ -23,7 +26,9 @@
   "----- Tab titlar -----": "",
   "tab_home_title": "Home",
   "tab_situation_title": "Situations",
+  "tab_situation_staff_title": "Challenges",
   "tab_behavior_title": "Behavior",
+  "tab_behavior_staff_title": "Prevent",
   "tab_law_title": "Law",
   "tab_more_title": "More",
   
@@ -41,6 +46,7 @@
   "more_about_heading": "About",
   "more_about_sdc": "About Swedish Dementia Centre",
   "more_about_app": "About the application",
+  "more_links": "Links",
   "more_contact_us_heading": "Contact",
   "more_contact_us": "Contact us",
   "more_contact_us_link": "https://www.demenscentrum.se/kontakt",

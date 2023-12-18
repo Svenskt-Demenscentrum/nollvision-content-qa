@@ -3,6 +3,5 @@
   { "key": "bekrafta", "title": "Bekräfta känslan", "image": "/all/behavior/1-thumb.jpg" },
   { "key": "fraga", "title": "Fråga på rätt sätt", "image": "/all/behavior/P-bild-fragaratt.jpg" },
   { "key": "friska", "title": "Stärk det friska", "image": "/all/behavior/P-bild-friska.jpg" },
-  { "key": "beteenden", "title": "Vanliga beteenden", "image": "/all/behavior/P-bild-beteende.jpg" }
-  
+  { "key": "common_behavior", "title": "Vanliga beteenden", "image": "/all/behavior/P-bild-beteende.jpg" } 
 ]

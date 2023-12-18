@@ -1,7 +1,7 @@
-[
-  { "key": "intryck", "title": "Begränsa intryck", "image": "/all/behavior/P-bild-intryck.jpg" },
-  { "key": "bekrafta", "title": "Bekräfta känslan", "image": "/all/behavior/1-thumb.jpg" },
-  { "key": "fraga", "title": "Fråga på rätt sätt", "image": "/all/behavior/P-bild-fragaratt.jpg" },
-  { "key": "friska", "title": "Stärk det friska", "image": "/all/behavior/P-bild-friska.jpg" },
-  { "key": "common_behavior", "title": "Vanliga beteenden", "image": "/all/behavior/P-bild-beteende.jpg" } 
+impressions[
+  { "key": "impressions", "title": "Minimize impressions", "image": "/all/behavior/P-bild-intryck.jpg" },
+  { "key": "acknowledge", "title": "Acknowledge feelings", "image": "/all/behavior/1-thumb.jpg" },
+  { "key": "askintherightway", "title": "Ask in the right way", "image": "/all/behavior/P-bild-fragaratt.jpg" },
+  { "key": "strengthen", "title": "Strengthen what is healthy", "image": "/all/behavior/P-bild-friska.jpg" },
+  { "key": "common_behavior", "title": "Common behaviour", "image": "/all/behavior/P-bild-beteende.jpg" } 
 ]

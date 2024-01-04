@@ -3,7 +3,7 @@
   { "key": "shower", "title": "He refuses to shower", "image": "/all/situation/1-thumb_dusha.jpg" },
   { "key": "patience", "title": "I lose my patience", "image": "/all/situation/1-thumb_tappatalamod.jpg" },
   { "key": "nursinghome", "title": "He doesn’t want to move to a nursing  home", "image": "/all/situation/1-thumb_flytta.jpg" },
-  { "key": "ockthedoor", "title": "Can I lock the door?", "image": "/all/situation/1-thumb_dorren.jpg" },
+  { "key": "lockthedoor", "title": "Can I lock the door?", "image": "/all/situation/1-thumb_dorren.jpg" },
   { "key": "relationship", "title": "She has a new love affair/relationship", "image": "/all/situation/1-thumb_karleksrelation.jpg" },
   { "key": "understand", "title": "The carers/nursing staff don’t understand", "image": "/all/situation/1-thumb_personalen.jpg" },
   { "key": "restrainingbelt", "title": "She needs a restraining belt", "image": "/all/situation/1-thumb_balte.jpg" }

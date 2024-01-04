@@ -1,10 +1,10 @@
 [
-  { "key": "walkingaround-behavior", "title": "Walking around", "image": "/all/behavior/1-thumb.jpg" },
-  { "key": "disturbances-behavior", "title": "Disturbances Behavior", "image": "/all/behavior/1-thumb.jpg" },
-    { "key": "irritated-behavior", "title": "Irritated and angry", "image": "/all/behavior/1-thumb_behaviour.jpg" },
-    { "key": "apathetic-behaviour", "title": "Apathetic and indifferent", "image": "/all/behavior/P-bild-apatisk.jpg" },
-    { "key": "apooreater-behavior", "title": "A poor eater", "image": "/all/behavior/1-thumb_mat.jpg" },
-    { "key": "callingout-behavior", "title": "Calling out and shouting", "image": "/all/behavior/P-bild-skriker.jpg" },
-    { "key": "hallucinations-behavior", "title": "Hallucinations", "image": "/all/behavior/P-bild-hallucinationer.jpg" },
-    { "key": "delusions-behavior", "title": "Delusions", "image": "/all/behavior/P-bild-vanforestallning.jpg" }
+  { "key": "walkingaround-behavior", "title": "Walking around", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "disturbances-behavior", "title": "Disturbances in sleep", "image": "/all/situation/P-bild-somnproblem.jpg" },
+    { "key": "irritated-behavior", "title": "Irritated and angry", "image": "/all/situation/1-thumb_behaviour.jpg" },
+    { "key": "apathetic-behaviour", "title": "Apathetic and indifferent", "image": "/all/stuation/P-bild-apatisk.jpg" },
+    { "key": "apooreater-behavior", "title": "A poor eater", "image": "/all/situation/1-thumb_mat.jpg" },
+    { "key": "callingout-behavior", "title": "Calling out and shouting", "image": "/all/situation/P-bild-skriker.jpg" },
+    { "key": "hallucinations-behavior", "title": "Hallucinations", "image": "/all/situaton/P-bild-hallucinationer.jpg" },
+    { "key": "delusions-behavior", "title": "Delusions", "image": "/all/situation/P-bild-vanforestallning.jpg" }
 ]

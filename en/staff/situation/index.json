@@ -1,11 +1,11 @@
-[
-  { "key": "wandering", "title": "Wandering/fiddling with things", "image": "/all/situation/1-thumb.jpg" },
-  { "key": "disturbances", "title": "Disturbances in sleep", "image": "/all/situation/P-bild-somnproblem.jpg" },
+us[
+  { "key": "wandering", "title": "Pacing and fiddling with things", "image": "/all/situation/1-thumb.jpg" },
+  { "key": "disturbances", "title": "Sleep disorders", "image": "/all/situation/P-bild-somnproblem.jpg" },
   { "key": "angry", "title": "Irritated and angry", "image": "/all/situation/P-bild-arg.jpg" },
   { "key": "apathetic", "title": "Apathetic and indifferent", "image": "/all/situation/P-bild-apatisk.jpg" },
   { "key": "apooreater", "title": "A poor eater", "image": "/all/situation/1-thumb_mat.jpg" },
   { "key": "shouting", "title": "Calling out and shouting", "image": "/all/situation/P-bild-skriker.jpg" },
-  { "key": "shower", "title": "Don't want to shower", "image": "/all/situation/1-thumb_dusha.jpg" },
+  { "key": "shower", "title": "Refuses to shower", "image": "/all/situation/1-thumb_dusha.jpg" },
   { "key": "hallucinations", "title": "Hallucinations", "image": "/all/situation/P-bild-hallucinationer.jpg" },
   { "key": "delusions", "title": "Delusions", "image": "/all/situation/P-bild-vanforestallning.jpg" }
 ]
